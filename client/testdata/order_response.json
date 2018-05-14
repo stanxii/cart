@@ -1,0 +1,12 @@
+{
+  "status": "CART",
+  "items": [
+    {
+      "product": {
+        "title": "iPhone 4",
+        "price": 499
+      },
+      "quantity": 2
+    }
+  ]
+}
