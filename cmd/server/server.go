@@ -4,7 +4,7 @@ import (
 	"encoding/json"
 	"net/http"
 
-	cart "github.com/marcusolsson/coverage-cravings"
+	"github.com/marcusolsson/cart"
 )
 
 type server struct {

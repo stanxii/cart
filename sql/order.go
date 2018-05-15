@@ -5,7 +5,7 @@ import (
 	"strings"
 
 	_ "github.com/lib/pq"
-	cart "github.com/marcusolsson/coverage-cravings"
+	"github.com/marcusolsson/cart"
 )
 
 type OrderRepository struct {

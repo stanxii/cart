@@ -9,7 +9,7 @@ import (
 	"testing"
 
 	"github.com/kr/pretty"
-	cartclient "github.com/marcusolsson/coverage-cravings/client"
+	cartclient "github.com/marcusolsson/cart/client"
 )
 
 func TestGetOrder(t *testing.T) {

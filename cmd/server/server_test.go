@@ -8,8 +8,8 @@ import (
 	"reflect"
 	"testing"
 
-	cart "github.com/marcusolsson/coverage-cravings"
-	"github.com/marcusolsson/coverage-cravings/mock"
+	"github.com/marcusolsson/cart"
+	"github.com/marcusolsson/cart/mock"
 )
 
 func TestCreateOrder(t *testing.T) {

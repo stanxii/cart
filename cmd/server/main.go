@@ -4,7 +4,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/marcusolsson/coverage-cravings/sql"
+	"github.com/marcusolsson/cart/sql"
 )
 
 func main() {

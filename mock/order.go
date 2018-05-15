@@ -1,8 +1,6 @@
 package mock
 
-import (
-	cart "github.com/marcusolsson/coverage-cravings"
-)
+import "github.com/marcusolsson/cart"
 
 type OrderRepository struct {
 	FindByIDFunc func(id string) (*cart.Order, error)
